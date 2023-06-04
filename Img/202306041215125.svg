@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="38cm" height="7cm" viewBox="37 129 744 130" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffffff" cx="102.5" cy="219" rx="64.5" ry="35"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="102.5" cy="219" rx="64.5" ry="35"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="102.5" y="224.7">
+      <tspan x="102.5" y="224.7">用户界面</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="307" cy="220.2" rx="64.5" ry="35"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="307" cy="220.2" rx="64.5" ry="35"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="307" y="225.9">
+      <tspan x="307" y="225.9">主程序</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="510.5" cy="222.4" rx="64.5" ry="35"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="510.5" cy="222.4" rx="64.5" ry="35"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510.5" y="228.1">
+      <tspan x="510.5" y="228.1">人数检测</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="715" cy="219.6" rx="64.5" ry="35"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="715" cy="219.6" rx="64.5" ry="35"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="715" y="225.3">
+      <tspan x="715" y="225.3">结果展示</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 244.017,174.458 A 55.745,55.745 0 0 0 157,182"/>
+    <polygon style="fill: #000000" points="248.767,180.135 239.081,174.551 244.63,173.879 247.422,169.036 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="248.767,180.135 239.081,174.551 244.63,173.879 247.422,169.036 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 451.517,176.658 A 55.745,55.745 0 0 0 364.5,184.2"/>
+    <polygon style="fill: #000000" points="456.267,182.335 446.581,176.751 452.13,176.079 454.922,171.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="456.267,182.335 446.581,176.751 452.13,176.079 454.922,171.236 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 653.017,172.858 A 55.745,55.745 0 0 0 566,180.4"/>
+    <polygon style="fill: #000000" points="657.767,178.535 648.081,172.951 653.63,172.279 656.422,167.436 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="657.767,178.535 648.081,172.951 653.63,172.279 656.422,167.436 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="113">
+    <tspan x="170" y="113"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="176" y="143">
+    <tspan x="176" y="143">图片选择</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="392" y="147">
+    <tspan x="392" y="147">图片展示</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="588" y="146">
+    <tspan x="588" y="146">人脸数量</tspan>
+  </text>
+</svg>
