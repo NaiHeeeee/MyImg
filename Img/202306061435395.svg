@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="26cm" height="20cm" viewBox="99 20 517 384" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="100" y="21" width="515" height="381"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="21" width="515" height="381"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="357.5" y="216.3">
+      <tspan x="357.5" y="216.3"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="122" y="104" width="283" height="284"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="122" y="104" width="283" height="284"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="263.5" y="250.8">
+      <tspan x="263.5" y="250.8"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="439" y="159" width="142" height="173"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="439" y="159" width="142" height="173"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="251.2">
+      <tspan x="510" y="251.2">人脸模型训练模块</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="136" y="185" width="252" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="136" y="185" width="252" height="52"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="262" y="216.7">
+      <tspan x="262" y="216.7">人脸检测模块</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="134.5" y="254.2" width="252" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="134.5" y="254.2" width="252" height="52"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260.5" y="285.9">
+      <tspan x="260.5" y="285.9">人脸识别模块</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="136" y="319.4" width="252" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="136" y="319.4" width="252" height="52"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="262" y="351.1">
+      <tspan x="262" y="351.1">人数统计模块</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="244" y="148">
+    <tspan x="244" y="148">GUI模块</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="329" y="64">
+    <tspan x="329" y="64">人数检测系统</tspan>
+  </text>
+</svg>
