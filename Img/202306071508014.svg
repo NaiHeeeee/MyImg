@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="40cm" height="6cm" viewBox="225 252 784 112" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffffff" cx="252" cy="271" rx="6" ry="6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="252" cy="271" rx="6" ry="6"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="228" y1="283" x2="276" y2="283"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="252" y1="277" x2="252" y2="307"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="252" y1="307" x2="228" y2="333"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="252" y1="307" x2="276" y2="333"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="252" y="358.7">
+      <tspan x="252" y="358.7">用户</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="296" y1="301" x2="432.264" y2="301"/>
+    <polygon style="fill: #000000" points="439.764,301 429.764,306 432.264,301 429.764,296 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="439.764,301 429.764,306 432.264,301 429.764,296 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="555.933" cy="299.966" rx="93.0673" ry="43.0336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="555.933" cy="299.966" rx="93.0673" ry="43.0336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="555.933" y="304.766">
+      <tspan x="555.933" y="304.766">Cloc</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="352" y="280">
+    <tspan x="352" y="280">使用</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="915.567" cy="300.234" rx="93.0673" ry="43.0336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="915.567" cy="300.234" rx="93.0673" ry="43.0336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="915.567" y="305.934">
+      <tspan x="915.567" y="305.934">统计代码行数</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="660" y1="299" x2="793.264" y2="299.932"/>
+    <polygon style="fill: #000000" points="800.764,299.984 790.729,304.914 793.264,299.932 790.799,294.915 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="800.764,299.984 790.729,304.914 793.264,299.932 790.799,294.915 "/>
+  </g>
+</svg>
