@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="34cm" height="16cm" viewBox="67 101 674 301" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="309" y="102" width="189" height="75"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="309" y="102" width="189" height="75"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="403.5" y="144.3">
+      <tspan x="403.5" y="144.3">Cloc</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="68.5" y="325.2" width="189" height="75"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="68.5" y="325.2" width="189" height="75"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="163" y="368.4">
+      <tspan x="163" y="368.4">文件解析器</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="308" y="323.4" width="189" height="75"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="308" y="323.4" width="189" height="75"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="402.5" y="366.6">
+      <tspan x="402.5" y="366.6">统计引擎</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="551.5" y="322.6" width="189" height="75"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="551.5" y="322.6" width="189" height="75"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="646" y="365.8">
+      <tspan x="646" y="365.8">数据库</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="403.5,177 403.5,249.8 646,249.8 646,312.864 "/>
+    <polygon style="fill: #000000" points="646,320.364 641,310.364 646,312.864 651,310.364 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="646,320.364 641,310.364 646,312.864 651,310.364 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="403" y1="249" x2="402.565" y2="313.664"/>
+    <polygon style="fill: #000000" points="402.515,321.164 397.582,311.131 402.565,313.664 407.582,311.198 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="402.515,321.164 397.582,311.131 402.565,313.664 407.582,311.198 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="402,249 402,250 163,250 163,314.464 "/>
+    <polygon style="fill: #000000" points="163,321.964 158,311.964 163,314.464 168,311.964 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="163,321.964 158,311.964 163,314.464 168,311.964 "/>
+  </g>
+</svg>
