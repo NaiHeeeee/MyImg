@@ -1,2 +1,2 @@
-# TyporaImg
-Typora 图床
+# MyImg
+图床
